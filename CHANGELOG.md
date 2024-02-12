@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.2](https://github.com/defenseunicorns/uds-package-dependencies/compare/v0.0.1...v0.0.2) (2024-02-12)
+
+
+### Miscellaneous
+
+* release 0.0.2 ([#9](https://github.com/defenseunicorns/uds-package-dependencies/issues/9)) ([b3ba83f](https://github.com/defenseunicorns/uds-package-dependencies/commit/b3ba83f4f3139e3848ec936ae7a34a65051b4432))
+
 ## 0.0.1 (2024-01-23)
 
 
